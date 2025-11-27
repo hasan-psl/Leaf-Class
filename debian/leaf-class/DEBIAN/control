@@ -1,0 +1,20 @@
+Package: leaf-class
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Hasan <hasanimroz.personal@gmail.com>
+Homepage: https://github.com/hasan-psl/Leaf-Class
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0
+License: MIT
+Description: A lightweight Google Classroom wrapper written in C using GTK and WebKit2GTK
+ Leaf Class is a minimal Google Classroom wrapper designed for extremely low RAM usage and a clean, distraction-free academic experience. Built with C and
+ WebKitGTK for maximum performance on Linux systems.
+ .
+ It has persistent Google login, dark mode support and a built-in downloads manager.
+ .
+ This package includes a standalone executable intended for Ubuntu, Debian, and
+ other modern Linux distributions with WebKitGTK 4.1 support.
+ .
+ Source code:
+ https://github.com/hasan-psl/Leaf-Class

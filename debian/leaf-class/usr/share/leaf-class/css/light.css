@@ -1,0 +1,47 @@
+window {
+    background-color: #f6f6f6;
+    color: #000000;
+}
+
+headerbar {
+    background-color: #ffffff;
+    color: #000000;
+    border-bottom: 1px solid #dadce0;
+}
+
+headerbar button,
+headerbar button image {
+    color: #5f6368;
+}
+
+headerbar button:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+entry {
+    background-color: #f1f3f4;
+    color: #000000;
+    border: none;
+}
+
+.download-card {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-image: none;
+    /* Override default button gradient */
+    color: #000000;
+}
+
+.download-ticker {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 5px 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-image: none;
+    /* Override default button gradient */
+    color: #000000;
+}
